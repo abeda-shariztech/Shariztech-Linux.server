@@ -1,0 +1,6 @@
+@Shariztech_Linux.server_HostAddress = http://localhost:5094
+
+GET {{Shariztech_Linux.server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
